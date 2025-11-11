@@ -8,7 +8,5 @@ elif a % 5 == 0:
 else:
     raise TypeError("Xato Son Kiritdingiz")
 
+#####git add .   git commit-m " comment  "   git push  >>>>>>>   git hubga push qilish uchun
 
-
-
-print("salomaleykum")
