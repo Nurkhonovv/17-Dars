@@ -7,3 +7,8 @@ elif a % 5 == 0:
     print("buzz son kiritdingiz")
 else:
     raise TypeError("Xato Son Kiritdingiz")
+
+
+
+
+print("salomaleykum")
